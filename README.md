@@ -42,4 +42,29 @@ Learning HTML
     <td>Activity-7</td>
     <td>Title for Web Documents</td>
   </tr>
+    <tr>
+    <td>8</td>
+    <td>Activity-8</td>
+    <td>Internal Style Sheet</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Activity-9</td>
+    <td>Redirect your web document after 5 seconds to another website</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Activity-10</td>
+    <td>Background Image for Body</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Activity-11</td>
+    <td>Anchor Tag</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Activity-12</td>
+    <td>HTML Entities and HTML Comments</td>
+  </tr>
 </table>
